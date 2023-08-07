@@ -6,6 +6,9 @@ This repository provides QASA dataset of the following paper:
 * Authors: {Yoonjoo Lee*, Kyungjae Lee*}, Sunghyun Park, Dasol Hwang, Jaehyeon Kim, Hong-in Lee, Moontae Lee (* Equal Contribution)
 * _ICML 2023_ 
 
+---
+## Dataset
+
 
 ---
 
@@ -38,13 +41,13 @@ SOFTWARE.
 ## How to cite
 
 ```
-@article{lee2023qasa,
+@inproceedings{lee2023qasa,
   title={QASA: Advanced Question Answering on Scientific Articles},
   author={Lee, Yoonjoo and Lee, Kyungjae and Park, Sunghyun and Hwang, Dasol and Kim, Jaehyeon and Lee, Hong-in and Lee, Moontae},
+  booktitle={Proceedings of the 40th International Conference on Machine Learning},
   year={2023}
 }
 ```
-
 
 ## Contact
 If you have any questions, please send an email to: Moontae Lee (moontae.lee@lgresearch.ai)

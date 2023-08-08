@@ -9,7 +9,10 @@ This repository provides QASA dataset of the following paper:
 ---
 ## Dataset
 
-
+- The original benchmark (1798 examples mentioned in our paper) can be found at `data/v0/testset_1798_v0.json`
+- After paper submission, we found noisy cases that are unanswerable in a given paper.
+- Therefore, we classified the unanswerable cases, and release a separated version (v1): answerable (`data/testset_answerable_1554_v1.json`) & unanswerable (`data/testset_unanswerable_544_v1.json`).
+  
 ---
 
 ## License

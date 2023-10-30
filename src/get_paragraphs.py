@@ -29,7 +29,7 @@ def parsing_paragraph(link):
 
 if __name__=='__main__':
 
-    arxiv_ids = ['1506.06579'] # https://arxiv.org/abs/1805.11815
+    arxiv_ids = ['2105.06323'] # https://arxiv.org/abs/2105.06323
     ar5iv_links = []
     for arxiv_id in arxiv_ids:
         ar5iv_links.append(f"https://ar5iv.labs.arxiv.org/html/{arxiv_id}")

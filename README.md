@@ -13,6 +13,7 @@ This repository provides QASA dataset of the following paper:
 - After paper submission, we found noisy cases that are unanswerable in a given paper.
 - Therefore, we classified the unanswerable cases, and release a separated version (v1): answerable (`data/testset_answerable_1554_v1.json`) & unanswerable (`data/testset_unanswerable_244_v1.json`).
 - Released a minor updated version (**v1.1**) of QASA containing the URL to access the full text. (`data/testset_answerable_1554_v1.1.json`, `data/testset_answerable_1554_v1.1.json`)
+- If you want to access the full body text of the paper, you can use `src/get_paragraphs.py`.
 ---
 
 ## License
